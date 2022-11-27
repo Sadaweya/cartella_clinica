@@ -2,8 +2,8 @@ package unibs.Control;
 /*
 Dati in uso al momento
 ama123
-mdrfnc95s23b157w
-23/11/1995
+MDRFNC11S11B157P
+11/11/2011
  */
 import unibs.View.View;
 import unibs.CryptAndSave.Open;
